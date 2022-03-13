@@ -1,0 +1,9 @@
+.Result {
+  width: 200px;
+  height: 200px;
+  font-size: 100px;
+  font-weight: 500;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}

@@ -1,0 +1,6 @@
+.Opponent {
+  width: 200px;
+  height: 200px;
+  background-image: url(/public/Dragon.jpg);
+  background-size: cover;
+}
