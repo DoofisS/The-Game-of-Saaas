@@ -5,8 +5,14 @@
   align-items: center;
 }
 .Button {
-  height: 40px;
-  width: 100px;
+  height: 55px;
+  width: 125px;
   font-size: 30px;
-  font-weight: 500;
+  font-family: "Architects Daughter", cursive;
+  font-weight: 700;
+  background-color: transparent;
+  border: solid 4px;
+  border-radius: 15px;
+  border-color: black;
+  cursor: pointer;
 }

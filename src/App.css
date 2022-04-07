@@ -1,5 +1,13 @@
 .App {
   text-align: center;
+  font-family: "Architects Daughter", cursive;
+}
+
+.Background {
+  background: url(../public/Background.jpg) no-repeat center center fixed;
+  background-position: 0px;
+  background-size: cover;
+  min-height: 100vh;
 }
 
 .App-logo {

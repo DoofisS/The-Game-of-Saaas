@@ -3,4 +3,8 @@
   height: 200px;
   background-image: url(/public/Dragon.jpg);
   background-size: cover;
+  background-position: -30px;
+  border: solid 5px;
+  border-radius: 20px;
+  border-color: darkred;
 }
